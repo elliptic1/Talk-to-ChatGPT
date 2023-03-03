@@ -6,7 +6,7 @@ This project allows you to talk to an AI chatbot powered by OpenAI's GPT-3 langu
 
 ### Prerequisites
 
-To run this project, you need to have Python 3.7 or higher installed on your machine. You also need an OpenAI API key, which you can get by signing up at [OpenAI](https://openai.com/).
+To run this project, you need to have Python 3.7 or higher installed on your machine. You also need an OpenAI API key, which you can get by signing up at [OpenAI](https://openai.com/). Set it as an environment variable `OPENAI_API_KEY`.
 
 ### Installing
 
@@ -17,7 +17,7 @@ To run this project, you need to have Python 3.7 or higher installed on your mac
 ### Running the Project
 
 1. Make sure you have activated your virtual environment.
-2. Run the command `python chatbot.py` to start the chatbot.
+2. Run the command `python chat.py` to start the chatbot.
 3. Speak into your microphone to ask a question, and wait for the chatbot to respond.
 
 ## Built With
