@@ -23,8 +23,8 @@ To run this project, you need to have Python 3.7 or higher installed on your mac
 ## Built With
 
 * [Python](https://www.python.org/) - The programming language used.
-* [OpenAI Whisper API](https://beta.openai.com/docs/api-reference/transcription/create) - Used for audio transcription.
-* [OpenAI ChatGPT API](https://beta.openai.com/docs/api-reference/completions/create) - Used for generating responses.
+* [OpenAI Whisper API](https://openai.com/research/whisper) - Used for audio transcription.
+* [OpenAI ChatGPT API](https://platform.openai.com/docs/guides/chat) - Used for generating responses.
 
 ## License
 
